@@ -1,16 +1,16 @@
 ### Hi there 👋
+My name is Lea Albano and I'm a fourth year B.S. Computer Science student at California State University, Fullerton. I'm anticipated to graduate Fall 2023. 
 
-<!--
-**leaalbano/leaalbano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on creating a PDF Scraper application.
+- 🌱 I’m currently learning how to use APIs.
+- 😄 Pronouns: She/her/hers
+- 📫 How to reach me: Leaaalbano@gmail.com 
 
-Here are some ideas to get you started:
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lea-albano/)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/leaalbano)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
