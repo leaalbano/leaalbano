@@ -3,6 +3,7 @@ My name is Lea Albano and I'm a fourth year B.S. Computer Science student at Cal
 
 - 🔭 I’m currently working on Leetcode problems.
 - 🌱 I’m currently learning how to use APIs.
+- 🙆‍♀️ I'm interested in fullstack Web Development 
 - 😄 Pronouns: She/her/hers
 - 📫 How to reach me: Leaaalbano@gmail.com 
 
