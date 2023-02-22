@@ -5,7 +5,7 @@ My name is Lea Albano and I'm a fourth year B.S. Computer Science student at Cal
 - 🌱 I’m currently learning how to use APIs.
 - 🙆‍♀️ I'm interested in fullstack Web Development 
 - 😄 Pronouns: She/her/hers
-- 📫 How to reach me: Leaaalbano@gmail.com 
+- 📫 How to reach me: Leaaalbano@gmail.com OR Leaalbano@csu.fullerton.edu
 
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lea-albano/)
 
