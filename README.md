@@ -6,6 +6,8 @@ My name is Lea Albano and I recently graduated from California State University,
 - 😄 Pronouns: She/her/hers
 - 📫 How to reach me: Leaalbano@csu.fullerton.edu
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=leaalbano)](https://git.io/streak-stats)
+
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lea-albano/)
 
 
